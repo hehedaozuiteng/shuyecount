@@ -1,7 +1,7 @@
 # shuyecount
 A QT graphic with a mysql serives 
 
-for this and that reason you may need qsqlmysql.dll, which is I supposed. 
+For this and that reason you may need qsqlmysql.dll, which is I provide. 
 
-this progame should use with a mysql server. To see the interface with out a server, you can change the user name as a "test"
+This progame should use with a mysql server. To see the interface with out a server, setting the user name as "test". It means you cannot use any normal function as a normal user. 
 
